@@ -6,7 +6,7 @@ Funcionalidade: Cadastrar usuario
 
 	Contexto:
 		Quando clicar em sign in
-		E digitar um email "testebruno2@gmail.com"
+		E digitar um email "testebruno3@gmail.com"
 		E clicar no botao Create an account
 	
 		@FirstName
